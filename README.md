@@ -1,4 +1,4 @@
-# Very Open License (or VOL) 1.0
+# Very Open License (VOL)
 
 The Very Open License (or VOL) was made for those who wanted a license
 as permissive as the [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode-plain),
